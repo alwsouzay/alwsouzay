@@ -18,4 +18,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+
+Atualmente no 2º periodo da faculdade de Análise e Desenvolvimento de Sistemas na Estácio de Sá.
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/alwsouzay/count.svg?"  />
+</div>
+
 ###
+
+
