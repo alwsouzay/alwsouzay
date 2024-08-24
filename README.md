@@ -24,7 +24,9 @@ Atualmente no 2º periodo da faculdade de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <img src="https://profile-counter.glitch.me/alwsouzay/count.svg?"  />
 </div>
+<img src="https://raw.githubusercontent.com/alwsouzay/alwsouzay/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 
