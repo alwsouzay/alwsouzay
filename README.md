@@ -22,7 +22,7 @@
 </div>
 
 
-Atualmente no 2º periodo da faculdade de Análise e Desenvolvimento de Sistemas na Estácio de Sá.
+Atualmente no 3º periodo da faculdade de Análise e Desenvolvimento de Sistemas na Estácio de Sá.
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/alwsouzay/count.svg?"  />
